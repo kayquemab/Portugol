@@ -25,7 +25,7 @@ Conjunto de 8 algoritmos básicos em Portugol, utilizados para praticar e testar
 link: (https://github.com/kayquemab/Portugol.git)
 2. Acesse a ferramenta online <br>
 link: (https://portugol.dev/)
-3. Execute os algoritmos no programa
+3. Execute os algoritmos na ferramenta
 
 ### 🤝 Contribuição
 
