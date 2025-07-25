@@ -2,7 +2,7 @@
 
 ### 📌 Sobre
 
-Conjunto de 8 algoritmos básicos em Portugol, utilizados para praticar e testar meus conhecimentos com a web ferramenta.
+8 algoritmos básicos em Portugol criados para treinar lógica de programação com a ferramenta Portugol WebStudio.
 
 ### 📂 Estrutura
 
