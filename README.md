@@ -1,4 +1,4 @@
-# 8 Algoritmos - Portugol
+# 8 Algoritmos
 
 ### 📌 Sobre
 
