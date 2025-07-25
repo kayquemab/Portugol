@@ -2,7 +2,7 @@
 
 ### 📌 Sobre
 
-Conjunto de 8 algoritmos básicos em Portugol, utilizados para praticar e testar meus conhecimentos em lógica de programação.
+Conjunto de 8 algoritmos básicos em Portugol, utilizados para praticar e testar meus conhecimentos com a web ferramenta.
 
 ### 📂 Estrutura
 
